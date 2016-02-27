@@ -117,7 +117,7 @@
      -
    * - 10
      - Тесленко Наталья Олеговна
-     -
+     - teslenkoNatasha
      -
      -
      -
@@ -209,6 +209,7 @@
 .. _ekaterem: https://github.com/ekaterem
 .. _KateBV: https://github.com/KateDV
 .. _GiperFrukt: https://github.com/GiperFrukt
+.. _teslenkoNatasha: https://github.com/teslenkoNatasha
 
 .. Домашняя работа #1
 
